@@ -26,46 +26,63 @@ https://zadig.akeo.ie
 
 Esse programinha serve para modificar os drivers no seu computador. Sem ele, deve aparecer duas portas COM no Gerenciador de Dispositivos:
 </div>
-<div style="text-align: center">
 
-![Alt text](README_files\image.png)
+<br>
 
+<div align="center">
+<img src = "https://github.com/aleclima14/Platform_Debug_With_ESP-PROG/blob/main/README_files/image.png?raw=true"/>
 </div>
+
+<br>
 
 <div style="text-align: justify">
 Após baixar, abra o programa. Ele tem essa cara:
 </div>
-<div style="text-align: center">
 
-![Alt text](README_files\image-1.png)
+<br>
+
+<div align="center">
+<img src = "https://github.com/aleclima14/Platform_Debug_With_ESP-PROG/blob/main/README_files/image-1.png?raw=true"/>
 </div>
+
+<br>
+
 <div style="text-align: justify">
 Vá em Options > List ALL Devices:
-<!-- </div> -->
-
-<div style="text-align: center">
-
-![Alt text](README_files\image-2.png)
 </div>
 
-<div style="text-align: justify">
+<br>
 
+<div align="center">
+<img src = "https://github.com/aleclima14/Platform_Debug_With_ESP-PROG/blob/main/README_files/image-2.png?raw=true"/>
+</div>
+
+<br>
+
+<div style="text-align: justify">
 Selecione o device "Dual RS232-HS (Interface 0) e clique em Replace Driver. O processo vai levar um certo tempo, coisa de alguns minutos dependendo da sua internet e computador.
 
 OBS: Só faça esse procedimento no device "Interface 0", o outro deixe como está.
-
 </div>
-<div style="text-align: center">
 
-![Alt text](README_files\image-3.png)
+<br>
+
+<div align="center">
+<img src = "https://github.com/aleclima14/Platform_Debug_With_ESP-PROG/blob/main/README_files/image-3.png?raw=true"/>
 </div>
+
+<br>
 
 <div style="text-align: justify">
-
 Ao final deve aparecer um pop-up dizendo se deu certo ou se deu errado. Em caso positivo, no Gerenciador de Dispositivos você terá uma porta COM referente ao ESP-PROG e um Dispositivo de Barramento Serial Universal:
-
-![Alt text](README_files\image-4.png) ![Alt text](README_files\image-5.png)
-
 </div>
+
+<br>
+
+<div align="center">
+<img src = "https://github.com/aleclima14/Platform_Debug_With_ESP-PROG/blob/main/README_files/image-4.png?raw=true"/>
+<img src = "https://github.com/aleclima14/Platform_Debug_With_ESP-PROG/blob/main/README_files/image-5.png?raw=true"/>
+</div> 
+
 
 ### 2.2 - 
